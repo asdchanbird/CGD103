@@ -3,3 +3,7 @@ body {
     padding: 0;
     background-color: red;
 }
+
+h1 {
+    font-size: 32px;
+}
